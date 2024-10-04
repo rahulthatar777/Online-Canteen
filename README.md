@@ -63,5 +63,5 @@ A live demo of the application can be found here: [Live Demo](#) <!-- Add a link
    - Start your web server (e.g., XAMPP/WAMP).
    - Open a web browser and navigate to `http://localhost/online-canteen-management`.
 
-## File Structure
+
 
